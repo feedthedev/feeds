@@ -1,0 +1,140 @@
+[
+  {
+    "title": "InfoWorld",
+    "website": "https://www.infoworld.com",
+    "feedUrl": "https://www.infoworld.com/index.rss",
+    "tags": ["News", "Databases", "Cloud Computing", "Open Source", "AI", "Machine Learning", "Agile", "Java", "CI/CD", "DevOps", "JavaScript", ".NET"]
+  },
+  {
+    "title": "TypeScript Blog",
+    "website": "https://devblogs.microsoft.com/typescript/",
+    "feedUrl": "https://devblogs.microsoft.com/typescript/feed/",
+    "tags": ["News", "Blog", "TypeScript", "JavaScript", "Languages", "Microsoft"]
+  },
+  {
+    "title": "Google for Developers",
+    "website": "https://developers.googleblog.com/",
+    "feedUrl": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
+    "tags": ["News", "Blog", "AI", "Cloud Computing", "Google", "Android", "Java", "Kotlin"]
+  },
+  {
+    "title": "Apple Developer News and Updates",
+    "website": "https://developer.apple.com/news/",
+    "feedUrl": "https://developer.apple.com/news/rss/news.rss",
+    "tags": ["News", "Apple", "iOS", "iPadOS", "macOS", "Swift", "Objective-C", "Operating Systems"]
+  },
+  {
+    "title": "The Nuxt Blog",
+    "website": "https://nuxt.com/blog",
+    "feedUrl": "https://nuxt.com/blog/rss.xml",
+    "tags": ["News", "Frameworks", "Web", "Vue.js", "Nuxt.js", "JavaScript", "Frontend"]
+  },
+  {
+    "title": "The Nuxt Blog",
+    "website": "https://nuxt.com/blog",
+    "feedUrl": "https://nuxt.com/blog/rss.xml",
+    "tags": ["News", "Frameworks", "Web", "Vue.js", "Nuxt.js", "JavaScript", "Frontend"]
+  },
+  {
+    "title": "Next.js Blog",
+    "website": "https://nextjs.org",
+    "feedUrl": "https://nextjs.org/feed.xml",
+    "tags": ["News", "Frameworks", "Web", "React.js", "Next.js", "JavaScript", "Frontend"]
+  },
+  {
+    "title": "web.dev: Blog",
+    "website": "https://web.dev/blog/",
+    "feedUrl": "https://web.dev/feed.xml",
+    "tags": ["News", "Web"]
+  },
+  {
+    "title": "WebKit",
+    "website": "https://webkit.org",
+    "feedUrl": "https://webkit.org/feed/",
+    "tags": ["News", "Web", "Browsers", "WebKit", "Safari"]
+  },
+  {
+    "title": "The Hacker News",
+    "website": "https://thehackernews.com",
+    "feedUrl": "https://thehackernews.com/feeds/posts/default",
+    "tags": ["News", "Security"]
+  },
+  {
+    "title": "PHP Magazine Network",
+    "website": "https://phpmagazine.net",
+    "feedUrl": "https://phpmagazine.net/feed",
+    "tags": ["News", "PHP"]
+  },
+  {
+    "title": "WordPress Developer Blog",
+    "website": "https://developer.wordpress.org/new",
+    "feedUrl": "https://developer.wordpress.org/news/feed/",
+    "tags": ["News", "PHP", "WordPress"]
+  },
+  {
+    "title": "News – WordPress.org",
+    "website": "https://wordpress.org/news",
+    "feedUrl": "https://wordpress.org/development/feed/",
+    "tags": ["News", "PHP", "WordPress"]
+  },
+  {
+    "title": "OMG! Ubuntu!",
+    "website": "https://www.omgubuntu.co.uk/",
+    "feedUrl": "https://www.omgubuntu.co.uk/feed",
+    "tags": ["News", "Ubuntu", "Linux", "Operating Systems"]
+  },
+  {
+    "title": "Phoronix",
+    "website": "https://www.phoronix.com/",
+    "feedUrl": "https://www.phoronix.com/rss.php",
+    "tags": ["News", "Benchmarks", "Linux", "Operating Systems"]
+  },
+  {
+    "title": "9to5Linux",
+    "website": "https://9to5linux.com/",
+    "feedUrl": "https://9to5linux.com/feed",
+    "tags": ["News", "Linux", "Operating Systems"]
+  },
+  {
+    "title": "9to5Mac",
+    "website": "https://9to5Mac.com/",
+    "feedUrl": "https://9to5Mac.com/feed",
+    "tags": ["News", "Apple", "iOS", "macOS", "Mac", "iPhone", "iPad", "Operating Systems"]
+  },
+  {
+    "title": "The GitHub Blog",
+    "website": "https://github.blog",
+    "feedUrl": "https://github.blog/feed/",
+    "tags": ["News", "git", "Source Control"]
+  },
+  {
+    "title": "Visual Studio Code",
+    "website": "https://code.visualstudio.com/",
+    "feedUrl": "https://code.visualstudio.com/feed.xml",
+    "tags": ["News", "Visual Studio Code", "Micorosft", "IDEs", "Editors"]
+  },
+  {
+    "title": "Windows Central",
+    "website": "https://www.windowscentral.com",
+    "feedUrl": "https://feeds.feedburner.com/wmexperts",
+    "tags": ["News", "Micorosft", "Windows", "Operating Systems"]
+  },
+  {
+    "title": "Windows Latest",
+    "website": "https://www.windowslatest.com/",
+    "feedUrl": "https://www.windowslatest.com/feed/",
+    "tags": ["News", "Micorosft", "Windows", "Operating Systems"]
+  },
+  {
+    "title": "Neowin",
+    "website": "https://www.neowin.net/",
+    "feedUrl": "https://feeds.feedburner.com/neowin-main/",
+    "tags": ["News", "Micorosft", "Windows", "Operating Systems"]
+  },
+  {
+    "title": "Tom's Hardware",
+    "website": "https://www.tomshardware.com",
+    "feedUrl": "https://www.tomshardware.com/feeds/all",
+    "tags": ["News", "Hardware"]
+  }
+]
