@@ -2,7 +2,7 @@
   {
     "title": "InfoWorld",
     "website": "https://www.infoworld.com",
-    "feedUrl": "https://www.infoworld.com/index.rss",
+    "feedUrl": "https://www.infoworld.com/feed/",
     "tags": ["News", "Databases", "Cloud Computing", "Open Source", "AI", "Machine Learning", "Agile", "Java", "CI/CD", "DevOps", "JavaScript", ".NET"]
   },
   {
