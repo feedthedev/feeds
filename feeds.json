@@ -75,37 +75,43 @@
     "title": "PHP Magazine Network",
     "website": "https://phpmagazine.net",
     "feedUrl": "https://phpmagazine.net/feed",
-    "tags": ["News", "PHP"]
+    "tags": ["News", "PHP", "Languages"]
   },
   {
     "title": "WordPress Developer Blog",
     "website": "https://developer.wordpress.org/new",
     "feedUrl": "https://developer.wordpress.org/news/feed/",
-    "tags": ["News", "PHP", "WordPress"]
+    "tags": ["News", "PHP", "WordPress", "Open Source"]
   },
   {
     "title": "News – WordPress.org",
     "website": "https://wordpress.org/news",
     "feedUrl": "https://wordpress.org/development/feed/",
-    "tags": ["News", "PHP", "WordPress"]
+    "tags": ["News", "PHP", "WordPress", "Open Source"]
   },
   {
     "title": "OMG! Ubuntu!",
     "website": "https://www.omgubuntu.co.uk/",
     "feedUrl": "https://www.omgubuntu.co.uk/feed",
-    "tags": ["News", "Ubuntu", "Linux", "Operating Systems"]
+    "tags": ["News", "Ubuntu", "Linux", "Operating Systems", "Open Source"]
   },
   {
     "title": "Phoronix",
     "website": "https://www.phoronix.com/",
     "feedUrl": "https://www.phoronix.com/rss.php",
-    "tags": ["News", "Benchmarks", "Linux", "Operating Systems"]
+    "tags": ["News", "Benchmarks", "Linux", "Operating Systems", "Open Source"]
+  },
+  {
+    "title": "Linux Foundation",
+    "website": "https://www.linuxfoundation.org/blog",
+    "feedUrl": "https://www.linuxfoundation.org/blog/rss.xml",
+    "tags": ["News", "Linux", "Operating Systems", "Open Source"]
   },
   {
     "title": "9to5Linux",
     "website": "https://9to5linux.com/",
     "feedUrl": "https://9to5linux.com/feed",
-    "tags": ["News", "Linux", "Operating Systems"]
+    "tags": ["News", "Linux", "Operating Systems", "Open Source"]
   },
   {
     "title": "9to5Mac",
@@ -214,5 +220,23 @@
     "website": "https://blogs.eclipse.org/",
     "feedUrl": "https://blogs.eclipse.org/blog/feed",
     "tags": ["News", "Java", "Jakarta EE", "Eclipse", "IDEs", "Editors"]
+  },
+  {
+    "title": "NGINX Community Blog",
+    "website": "https://blog.nginx.org/",
+    "feedUrl": "https://blog.nginx.org/feed",
+    "tags": ["News", "NGINX", "Servers", "Web", "Open Source"]
+  },
+  {
+    "title": "Apache Foundation Blog",
+    "website": "https://news.apache.org/",
+    "feedUrl": "https://news.apache.org/feed",
+    "tags": ["News", "Apache", "Servers", "Web", "Open Source"]
+  },
+  {
+    "title": "OSnews",
+    "website": "https://www.osnews.com/",
+    "feedUrl": "https://www.osnews.com/feed/",
+    "tags": ["News", "Open Source"]
   }
 ]
