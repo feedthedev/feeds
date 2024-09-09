@@ -204,6 +204,12 @@
     "tags": ["News", "Apple", "iOS", "macOS", "Mac", "iPhone", "iPad", "Operating Systems"]
   },
   {
+    "title": "Haiku OS",
+    "website": "https://www.haiku-os.org/",
+    "feedUrl": "https://www.haiku-os.org/index.xml",
+    "tags": ["News", "Haiku", "BeOS", "Operating Systems", "Open Source"]
+  },
+  {
     "title": "The GitHub Blog",
     "website": "https://github.blog",
     "feedUrl": "https://github.blog/feed/",
