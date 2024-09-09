@@ -120,12 +120,6 @@
     "tags": ["News", "git", "Source Control"]
   },
   {
-    "title": "Visual Studio Code",
-    "website": "https://code.visualstudio.com/",
-    "feedUrl": "https://code.visualstudio.com/feed.xml",
-    "tags": ["News", "Visual Studio Code", "Microsoft", "IDEs", "Editors"]
-  },
-  {
     "title": "Windows Central",
     "website": "https://www.windowscentral.com",
     "feedUrl": "https://feeds.feedburner.com/wmexperts",
@@ -150,12 +144,6 @@
     "tags": ["News", "Hardware"]
   },
   {
-    "title": "Standard C++ Foundation",
-    "website": "https://isocpp.org/",
-    "feedUrl": "https://isocpp.org/blog/rss",
-    "tags": ["News", "C++", "Languages"]
-  },
-  {
     "title": "Rust Blog",
     "website": "https://blog.rust-lang.org/",
     "feedUrl": "https://blog.rust-lang.org/feed.xml",
@@ -171,6 +159,60 @@
     "title": "The Go Blog",
     "website": "https://go.dev/blog/",
     "feedUrl": "https://go.dev/blog/feed.atom",
-    "tags": ["News", "Go", "Languages"]
+    "tags": ["News", "GoLang", "Languages"]
+  },
+  {
+    "title": "Microsoft C++ Team Blog",
+    "website": "https://devblogs.microsoft.com/cppblog/",
+    "feedUrl": "https://devblogs.microsoft.com/cppblog/feed/",
+    "tags": ["News", "C++", "Languages", "Microsoft", "Visual Studio"]
+  },
+  {
+    "title": "Visual Studio Code",
+    "website": "https://code.visualstudio.com/",
+    "feedUrl": "https://code.visualstudio.com/feed.xml",
+    "tags": ["News", "Visual Studio Code", "Microsoft", "IDEs", "Editors"]
+  },
+  {
+    "title": "Visual Studio Blog",
+    "website": "https://devblogs.microsoft.com/visualstudio/",
+    "feedUrl": "https://devblogs.microsoft.com/visualstudio/feed/",
+    "tags": ["News", "Microsoft", "Visual Studio", "IDEs", "Editors"]
+  },
+  {
+    "title": "Azure DevOps Blog",
+    "website": "https://devblogs.microsoft.com/devops/",
+    "feedUrl": "https://devblogs.microsoft.com/devops/feed/",
+    "tags": ["News", "Microsoft", "Azure", "Cloud", "DevOps"]
+  },
+  {
+    "title": ".NET Blog",
+    "website": "https://devblogs.microsoft.com/dotnet/",
+    "feedUrl": "https://devblogs.microsoft.com/dotnet/feed/",
+    "tags": ["News", ".NET", "C++", "C#", "Languages", "Microsoft", "Visual Studio"]
+  },
+  {
+    "title": "Microsoft Python Blog",
+    "website": "https://devblogs.microsoft.com/python/",
+    "feedUrl": "https://devblogs.microsoft.com/python/feed/",
+    "tags": ["News", "Python", "Languages", "Microsoft"]
+  },
+  {
+    "title": "Python Insider",
+    "website": "https://www.python.org/blogs/",
+    "feedUrl": "https://blog.python.org/feeds/posts/default?alt=rss",
+    "tags": ["News", "Python", "Languages"]
+  },
+  {
+    "title": "Inside Java",
+    "website": "https://inside.java/",
+    "feedUrl": "https://inside.java/feed.xml",
+    "tags": ["News", "Java", "Languages"]
+  },
+  {
+    "title": "Eclipse Blog",
+    "website": "https://blogs.eclipse.org/",
+    "feedUrl": "https://blogs.eclipse.org/blog/feed",
+    "tags": ["News", "Java", "Jakarta EE", "Eclipse", "IDEs", "Editors"]
   }
 ]
