@@ -132,6 +132,18 @@
     "tags": ["News", "Linux", "Operating Systems", "Open Source", "Fedora"]
   },
   {
+    "title": "The Linux Mint Blog",
+    "website": "https://blog.linuxmint.com/",
+    "feedUrl": "https://blog.linuxmint.com/?feed=rss2",
+    "tags": ["News", "Linux", "Operating Systems", "Open Source", "Linux Mint"]
+  },
+  {
+    "title": "openSUSE News",
+    "website": "https://news.opensuse.org/",
+    "feedUrl": "https://news.opensuse.org/feed/",
+    "tags": ["News", "Linux", "Operating Systems", "Open Source", "openSUSE"]
+  },
+  {
     "title": "DistroWatch Latest Distributions",
     "website": "https://distrowatch.com",
     "feedUrl": "https://distrowatch.com/news/dwd.xml",
