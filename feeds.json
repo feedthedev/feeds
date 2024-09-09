@@ -63,7 +63,37 @@
     "title": "WebKit",
     "website": "https://webkit.org",
     "feedUrl": "https://webkit.org/feed/",
-    "tags": ["News", "Web", "Browsers", "WebKit", "Safari"]
+    "tags": ["News", "Web", "Browsers", "WebKit", "Safari", "Open Source"]
+  },
+  {
+    "title": "The Mozilla Blog",
+    "website": "https://blog.mozilla.org/en/",
+    "feedUrl": "https://blog.mozilla.org/en/feed/",
+    "tags": ["News", "Web", "Browsers", "Firefox", "Mozilla", "Open Source"]
+  },
+  {
+    "title": "The Thunderbird Blog",
+    "website": "https://blog.thunderbird.net/",
+    "feedUrl": "https://blog.thunderbird.net/feed/",
+    "tags": ["News", "Email", "Thunderbird", "Mozilla", "Open Source"]
+  },
+  {
+    "title": "Google Chrome",
+    "website": "https://blog.google/products/chrome/",
+    "feedUrl": "https://blog.google/products/chrome/rss",
+    "tags": ["News", "Web", "Google", "Chrome", "Chromium", "Open Source"]
+  },
+  {
+    "title": "Google Chrome Releases",
+    "website": "https://chromereleases.googleblog.com/",
+    "feedUrl": "https://chromereleases.googleblog.com/feeds/posts/default?alt=rss",
+    "tags": ["News", "Web", "Google", "Chrome", "Chromium", "Open Source"]
+  },
+  {
+    "title": "Chromium Blog",
+    "website": "https://blog.chromium.org/",
+    "feedUrl": "https://blog.chromium.org/feeds/posts/default?alt=rss",
+    "tags": ["News", "Web", "Google", "Chrome", "Chromium", "Open Source"]
   },
   {
     "title": "The Hacker News",
@@ -192,6 +222,12 @@
     "tags": ["News", "Microsoft", "Windows", "Operating Systems"]
   },
   {
+    "title": "Windows Blog",
+    "website": "https://blogs.windows.com/",
+    "feedUrl": "https://blogs.windows.com/feed",
+    "tags": ["News", "Microsoft", "Windows", "Operating Systems"]
+  },
+  {
     "title": "Neowin",
     "website": "https://www.neowin.net/",
     "feedUrl": "https://feeds.feedburner.com/neowin-main/",
@@ -219,7 +255,7 @@
     "title": "The Go Blog",
     "website": "https://go.dev/blog/",
     "feedUrl": "https://go.dev/blog/feed.atom",
-    "tags": ["News", "GoLang", "Languages", "Open Source"]
+    "tags": ["News", "GoLang", "Languages", "Open Source", "Google"]
   },
   {
     "title": "Microsoft C++ Team Blog",
