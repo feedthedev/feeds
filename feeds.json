@@ -9,13 +9,13 @@
     "title": "TypeScript Blog",
     "website": "https://devblogs.microsoft.com/typescript/",
     "feedUrl": "https://devblogs.microsoft.com/typescript/feed/",
-    "tags": ["News", "Blog", "TypeScript", "JavaScript", "Languages", "Microsoft"]
+    "tags": ["News", "TypeScript", "JavaScript", "Languages", "Microsoft"]
   },
   {
     "title": "Google for Developers",
     "website": "https://developers.googleblog.com/",
     "feedUrl": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
-    "tags": ["News", "Blog", "AI", "Cloud Computing", "Google", "Android", "Java", "Kotlin"]
+    "tags": ["News", "AI", "Cloud Computing", "Google", "Android", "Java", "Kotlin"]
   },
   {
     "title": "Apple Developer News and Updates",
@@ -24,22 +24,34 @@
     "tags": ["News", "Apple", "iOS", "iPadOS", "macOS", "Swift", "Objective-C", "Operating Systems"]
   },
   {
-    "title": "The Nuxt Blog",
-    "website": "https://nuxt.com/blog",
-    "feedUrl": "https://nuxt.com/blog/rss.xml",
-    "tags": ["News", "Frameworks", "Web", "Vue.js", "Nuxt.js", "JavaScript", "Frontend"]
+    "title": "The Vue Point",
+    "website": "https://blog.vuejs.org/",
+    "feedUrl": "https://blog.vuejs.org/feed.rss",
+    "tags": ["News", "Frameworks", "Web", "Vue.js", "JavaScript", "Frontend"]
   },
   {
     "title": "The Nuxt Blog",
     "website": "https://nuxt.com/blog",
     "feedUrl": "https://nuxt.com/blog/rss.xml",
     "tags": ["News", "Frameworks", "Web", "Vue.js", "Nuxt.js", "JavaScript", "Frontend"]
+  },
+  {
+    "title": "React Blog",
+    "website": "https://react.dev",
+    "feedUrl": "https://react.dev/rss.xml",
+    "tags": ["News", "Frameworks", "Web", "React.js", "JavaScript", "Frontend"]
   },
   {
     "title": "Next.js Blog",
     "website": "https://nextjs.org",
     "feedUrl": "https://nextjs.org/feed.xml",
     "tags": ["News", "Frameworks", "Web", "React.js", "Next.js", "JavaScript", "Frontend"]
+  },
+  {
+    "title": "Angular Blog",
+    "website": "https://blog.angular.dev",
+    "feedUrl": "https://blog.angular.dev/feed",
+    "tags": ["News", "Frameworks", "Web", "Angular", "JavaScript", "Frontend"]
   },
   {
     "title": "web.dev: Blog",
@@ -136,5 +148,29 @@
     "website": "https://www.tomshardware.com",
     "feedUrl": "https://www.tomshardware.com/feeds/all",
     "tags": ["News", "Hardware"]
+  },
+  {
+    "title": "Standard C++ Foundation",
+    "website": "https://isocpp.org/",
+    "feedUrl": "https://isocpp.org/blog/rss",
+    "tags": ["News", "C++", "Languages"]
+  },
+  {
+    "title": "Rust Blog",
+    "website": "https://blog.rust-lang.org/",
+    "feedUrl": "https://blog.rust-lang.org/feed.xml",
+    "tags": ["News", "Rust", "Languages"]
+  },
+  {
+    "title": "Inside Rust Blog",
+    "website": "https://blog.rust-lang.org/inside-rust/",
+    "feedUrl": "https://blog.rust-lang.org/inside-rust/feed.xml",
+    "tags": ["News", "Rust", "Languages"]
+  },
+  {
+    "title": "The Go Blog",
+    "website": "https://go.dev/blog/",
+    "feedUrl": "https://go.dev/blog/feed.atom",
+    "tags": ["News", "Go", "Languages"]
   }
 ]
