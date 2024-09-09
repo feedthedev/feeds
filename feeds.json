@@ -72,6 +72,12 @@
     "tags": ["News", "Security"]
   },
   {
+    "title": "PHP News & Announcements",
+    "website": "https://www.php.net/",
+    "feedUrl": "https://www.php.net/feed.atom",
+    "tags": ["News", "PHP", "Languages", "Open Source"]
+  },
+  {
     "title": "PHP Magazine Network",
     "website": "https://phpmagazine.net",
     "feedUrl": "https://phpmagazine.net/feed",
@@ -105,6 +111,42 @@
     "title": "Linux Foundation",
     "website": "https://www.linuxfoundation.org/blog",
     "feedUrl": "https://www.linuxfoundation.org/blog/rss.xml",
+    "tags": ["News", "Linux", "Operating Systems", "Open Source"]
+  },
+  {
+    "title": "Bits from Debian",
+    "website": "https://bits.debian.org/",
+    "feedUrl": "https://bits.debian.org/feeds/feed.rss",
+    "tags": ["News", "Linux", "Operating Systems", "Open Source", "Debian"]
+  },
+  {
+    "title": "Ubuntu Blog",
+    "website": "https://ubuntu.com/blog",
+    "feedUrl": "https://ubuntu.com/blog/feed",
+    "tags": ["News", "Linux", "Operating Systems", "Open Source", "Ubuntu"]
+  },
+  {
+    "title": "Fedora Magazine",
+    "website": "https://fedoramagazine.org/",
+    "feedUrl": "https://fedoramagazine.org/feed/",
+    "tags": ["News", "Linux", "Operating Systems", "Open Source", "Fedora"]
+  },
+  {
+    "title": "DistroWatch Latest Distributions",
+    "website": "https://distrowatch.com",
+    "feedUrl": "https://distrowatch.com/news/dwd.xml",
+    "tags": ["News", "Linux", "Operating Systems", "Open Source"]
+  },
+  {
+    "title": "DistroWatch Latest Headlines",
+    "website": "https://distrowatch.com",
+    "feedUrl": "https://distrowatch.com/news/news-headlines.xml",
+    "tags": ["News", "Linux", "Operating Systems", "Open Source"]
+  },
+  {
+    "title": "DistroWatch Weekly",
+    "website": "https://distrowatch.com",
+    "feedUrl": "https://distrowatch.com/news/dww.xml",
     "tags": ["News", "Linux", "Operating Systems", "Open Source"]
   },
   {
@@ -153,19 +195,19 @@
     "title": "Rust Blog",
     "website": "https://blog.rust-lang.org/",
     "feedUrl": "https://blog.rust-lang.org/feed.xml",
-    "tags": ["News", "Rust", "Languages"]
+    "tags": ["News", "Rust", "Languages", "Open Source"]
   },
   {
     "title": "Inside Rust Blog",
     "website": "https://blog.rust-lang.org/inside-rust/",
     "feedUrl": "https://blog.rust-lang.org/inside-rust/feed.xml",
-    "tags": ["News", "Rust", "Languages"]
+    "tags": ["News", "Rust", "Languages", "Open Source"]
   },
   {
     "title": "The Go Blog",
     "website": "https://go.dev/blog/",
     "feedUrl": "https://go.dev/blog/feed.atom",
-    "tags": ["News", "GoLang", "Languages"]
+    "tags": ["News", "GoLang", "Languages", "Open Source"]
   },
   {
     "title": "Microsoft C++ Team Blog",
