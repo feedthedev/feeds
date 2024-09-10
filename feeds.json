@@ -174,24 +174,6 @@
     "tags": ["News", "Linux", "Operating Systems", "Open Source", "openSUSE"]
   },
   {
-    "title": "DistroWatch Latest Distributions",
-    "website": "https://distrowatch.com",
-    "feedUrl": "https://distrowatch.com/news/dwd.xml",
-    "tags": ["News", "Linux", "Operating Systems", "Open Source"]
-  },
-  {
-    "title": "DistroWatch Latest Headlines",
-    "website": "https://distrowatch.com",
-    "feedUrl": "https://distrowatch.com/news/news-headlines.xml",
-    "tags": ["News", "Linux", "Operating Systems", "Open Source"]
-  },
-  {
-    "title": "DistroWatch Weekly",
-    "website": "https://distrowatch.com",
-    "feedUrl": "https://distrowatch.com/news/dww.xml",
-    "tags": ["News", "Linux", "Operating Systems", "Open Source"]
-  },
-  {
     "title": "9to5Linux",
     "website": "https://9to5linux.com/",
     "feedUrl": "https://9to5linux.com/feed",
